@@ -2,10 +2,10 @@
 
 Welcome to my static website project! This repository showcases my journey into DevOps, where I've implemented a CI/CD pipeline using GitHub Actions to automate the deployment of a static website.
 
+
 🛠️ Project Overview
 
 Template Used: Dimension by HTML5 UP
-
 Hosting Platform: GitHub Pages
 
 CI/CD Tool: GitHub Actions
@@ -15,8 +15,8 @@ GitHub
 Medium
 +2
 
-🎯 Objectives
 
+🎯 Objectives
 Fork and customize an existing static website template.
 
 Implement a CI/CD pipeline using GitHub Actions.
@@ -61,7 +61,6 @@ The workflow file is located at .github/workflows/deploy.yml.
 Medium
 
 📄 License
-
 This project is licensed under the Creative Commons Attribution 3.0 License.
 
 📬 Contact
@@ -69,7 +68,6 @@ This project is licensed under the Creative Commons Attribution 3.0 License.
 Feel free to reach out if you have any questions or suggestions!
 
 GitHub: Sanju333-scar
-
-Email: [Your Email Address]
+Email: bheeman1000@gmail.com
 
 This project has been a valuable learning experience in setting up CI/CD pipelines and automating deployments, aligning with my aspirations to become a DevOps engineer.
