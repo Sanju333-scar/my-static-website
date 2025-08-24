@@ -41,7 +41,7 @@ GitHub
 
 HTML5 & CSS3: For structuring and styling the website.
 
-Git & GitHub: Version control and repository hosting.
+**Git & GitHub**: Version control and repository hosting.
 
 GitHub Actions: Automating the build and deployment process.
 
