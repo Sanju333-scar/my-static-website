@@ -9,7 +9,7 @@ This project is a modified version of [Original Project Name](https://github.com
 
 
 
-🛠️ Project Overview
+## Project Overview
 
 Template Used: Dimension by HTML5 UP
 Hosting Platform: GitHub Pages
@@ -22,7 +22,7 @@ Medium
 +2
 
 
-🎯 Objectives
+## Objectives
 Fork and customize an existing static website template.
 
 Implement a CI/CD pipeline using GitHub Actions.
@@ -37,7 +37,7 @@ Medium
 GitHub
 +3
 
-🔧 Technologies Used
+## Technologies Used
 
 HTML5 & CSS3: For structuring and styling the website.
 
@@ -50,7 +50,7 @@ Perficient Blogs
 Medium
 +1
 
-🚀 Deployment Workflow
+## Deployment Workflow
 
 The deployment process is automated using GitHub Actions. Here's how it works:
 
@@ -66,10 +66,10 @@ GitHub
 The workflow file is located at .github/workflows/deploy.yml.
 Medium
 
-📄 License
+## License
 This project is licensed under the Creative Commons Attribution 3.0 License.
 
-📬 Contact
+## Contact
 
 Feel free to reach out if you have any questions or suggestions!
 
