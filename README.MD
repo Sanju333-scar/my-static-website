@@ -1,6 +1,12 @@
 🚀 My Static Website with CI/CD Deployment
 
+
 Welcome to my static website project! This repository showcases my journey into DevOps, where I've implemented a CI/CD pipeline using GitHub Actions to automate the deployment of a static website.
+
+## Acknowledgment
+
+This project is a modified version of [Original Project Name](https://github.com/OriginalUser/OriginalRepo). I've refactored and extended it, implementing GitHub Actions for CI/CD deployment and hosting via GitHub Pages.
+
 
 
 🛠️ Project Overview
