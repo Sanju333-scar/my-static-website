@@ -5,7 +5,7 @@ Welcome to my static website project! This repository showcases my journey into 
 
 ## Acknowledgment
 
-This project is a modified version of [Original Project Name](https://github.com/OriginalUser/OriginalRepo). I've refactored and extended it, implementing GitHub Actions for CI/CD deployment and hosting via GitHub Pages.
+This project is a modified version of https://github.com/Sanju333-scar/static-website-example. I've refactored and extended it, implementing GitHub Actions for CI/CD deployment and hosting via GitHub Pages.
 
 
 
